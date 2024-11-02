@@ -1,8 +1,8 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 
 @Injectable()
 export class UsersService {
-    users = [
+    private users = [
         {
             id: 1,
             name: 'Thoma',
@@ -21,6 +21,12 @@ export class UsersService {
             email: 'julien@gmail.com',
             role: 'teacher',
         },
+        {
+            id: 4,
+            name: 'Kevin',
+            email: 'kevin@gmail.com',
+            role: 'director',
+        },
     ];
 
     findOne(id: number) {
@@ -31,8 +37,15 @@ export class UsersService {
         return user;
     }
 
-    findAll() {
+    findByRole(role?: 'student' | 'teacher' | 'director') {
+        if (role) {
+            const rolesArray = this.users.filter(user => user.role === role);
+            if (rolesArray.length === 0) 
+                throw new NotFoundException(`User Role not found`);
+                return rolesArray;
+        }
         return this.users;
     }
+
 
 }

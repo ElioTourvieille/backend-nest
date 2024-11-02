@@ -1,8 +1,9 @@
-import { Controller, Get, Param, ParseIntPipe } from '@nestjs/common';
+import { Controller, Get, Param, ParseIntPipe, Post, Query } from '@nestjs/common';
 import { UsersService } from './users.service';
 
 @Controller('users')
 export class UsersController {
+
     constructor(private readonly usersService: UsersService) {}
 
     @Get(':id') // GET /users/:id
@@ -11,8 +12,8 @@ export class UsersController {
     }
 
     @Get() // GET /users
-    findAll() {
-        return this.usersService.findAll();
+    findByRole(@Query('role') role?: 'student' | 'teacher') {
+        return this.usersService.findByRole(role);
     }
     
 }
