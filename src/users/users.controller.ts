@@ -11,8 +11,8 @@ export class UsersController {
         return this.usersService.findOne(id);
     }
 
-    @Get() // GET /users
-    findByRole(@Query('role') role?: 'student' | 'teacher') {
+    @Get() // GET /users or GET /users?role=
+    findByRole(@Query('role') role?: 'free' | 'premium' | 'elite') {
         return this.usersService.findByRole(role);
     }
     

@@ -7,25 +7,25 @@ export class UsersService {
             id: 1,
             name: 'Thoma',
             email: 'thoma@gmail.com',
-            role: 'student',
+            role: 'free',
         },
         {
             id: 2,
             name: 'Chadi',
             email: 'chadi@gmail.com',
-            role: 'student',
+            role: 'premium',
         },
         {
             id: 3,
             name: 'Julien',
             email: 'julien@gmail.com',
-            role: 'teacher',
+            role: 'premium',
         },
         {
             id: 4,
             name: 'Kevin',
             email: 'kevin@gmail.com',
-            role: 'director',
+            role: 'elite',
         },
     ];
 
@@ -37,7 +37,7 @@ export class UsersService {
         return user;
     }
 
-    findByRole(role?: 'student' | 'teacher' | 'director') {
+    findByRole(role?: 'free' | 'premium' | 'elite') {
         if (role) {
             const rolesArray = this.users.filter(user => user.role === role);
             if (rolesArray.length === 0) 
