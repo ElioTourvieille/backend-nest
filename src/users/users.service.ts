@@ -1,51 +1,49 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable } from '@nestjs/common';
+import { DatabaseService } from 'src/database/database.service';
+import { Prisma, Role } from '@prisma/client';
 
 @Injectable()
 export class UsersService {
-    private users = [
-        {
-            id: 1,
-            name: 'Thoma',
-            email: 'thoma@gmail.com',
-            role: 'free',
-        },
-        {
-            id: 2,
-            name: 'Chadi',
-            email: 'chadi@gmail.com',
-            role: 'premium',
-        },
-        {
-            id: 3,
-            name: 'Julien',
-            email: 'julien@gmail.com',
-            role: 'premium',
-        },
-        {
-            id: 4,
-            name: 'Kevin',
-            email: 'kevin@gmail.com',
-            role: 'elite',
-        },
-    ];
+    constructor (private readonly databaseService: DatabaseService) { }
 
-    findOne(id: number) {
-        const user = this.users.find(user => user.id === id);
-        if (!user) {
-            throw new Error('User not found');
-        }
-        return user;
+    async create(createUserDto: Prisma.UserCreateInput) {
+        return this.databaseService.user.create({
+            data: createUserDto,
+        });
     }
 
-    findByRole(role?: 'free' | 'premium' | 'elite') {
-        if (role) {
-            const rolesArray = this.users.filter(user => user.role === role);
-            if (rolesArray.length === 0) 
-                throw new NotFoundException(`User Role not found`);
-                return rolesArray;
-        }
-        return this.users;
+    async findOne(id: number) {
+        return this.databaseService.user.findUnique({
+            where: {
+                id,
+            },
+        });
     }
 
+    async findByRole(role?: Role) {
+        if (role) return this.databaseService.user.findMany({
+            where: {
+                role,
+            },
+        });
 
+        return this.databaseService.user.findMany();
+    }
+
+    async update(id: number, updateUserDto: Prisma.UserUpdateInput) {
+        return this.databaseService.user.update({
+            where: {
+                id,
+            },
+            data: updateUserDto,
+        });
+    }
+
+    async delete(id: number) {
+        return this.databaseService.user.delete({
+            where: {
+                id,
+            },
+        });
+    }
 }
