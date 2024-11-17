@@ -5,6 +5,9 @@ export class KindeEventData {
     @IsString()
     id: string;
 
+    @IsString()
+    token: string;
+
     @IsObject()
     @ValidateNested()
     data: object;

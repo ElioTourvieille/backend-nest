@@ -1,59 +1,80 @@
 import { Injectable } from '@nestjs/common';
-import { Prisma } from '@prisma/client'
+import { Prisma, Role } from '@prisma/client';
 import { DatabaseService } from 'src/database/database.service';
 
 @Injectable()
 export class WebhookService {
-    constructor(private readonly databaseService: DatabaseService) { }
+  constructor(private readonly databaseService: DatabaseService) {}
 
-    async processKindeEvent(event: any) {
-        try {
-            switch (event.type) {
-                case 'user.created':
-                    await this.createUser(event.data);
-                    break;
-                case 'user.updated':
-                    await this.update(event.data.id, event.data);
-                    break;
-                case 'user.deleted':
-                    await this.delete(event.data.id);
-                    break;
-                default:
-                    throw new Error(`Unhandled event type: ${event.type}`);
-            }
-        } catch (error) {
-            console.error(`Failed to process event ${event.type}:`, error);
-            throw error;
-        }
-    }
+  async processKindeEvent(verifiedEvent: any) {
+    try {
+      switch (verifiedEvent.type) {
+        case 'user.created':
+          const userData = {
+            kindeId: verifiedEvent.data.user.id,
+            email: verifiedEvent.data.user.email,
+            name: `${verifiedEvent.data.user.first_name} ${verifiedEvent.data.user.last_name}`,
+            role: 'free',
+          };
+          await this.createUser(userData);
+          break;
+        case 'user.updated':
+          await this.update(verifiedEvent.data.user.id, {
+            email: verifiedEvent.data.user.email,
+            name: `${verifiedEvent.data.user.first_name} ${verifiedEvent.data.user.last_name}`,
+          });
+          break;
+        case 'user.deleted':
+          await this.delete(verifiedEvent.data.user.id);
+          break;
 
-    async createUser(userData: Prisma.UserCreateInput) {
-        try {
-            await this.databaseService.user.create({ data: userData });
-        } catch (error) {
-            console.error('Failed to create user:', error);
-            throw error;
-        }
+        default:
+          throw new Error(`Unhandled event type: ${verifiedEvent.type}`);
+      }
+    } catch (error) {
+      console.error(`Failed to process event ${verifiedEvent.type}:`, error);
+    throw error;
     }
+  }
 
-    async update(id: number, updateUserData: Prisma.UserUpdateInput) {
-        try {
-            return await this.databaseService.user.update({
-                where: { id },
-                data: updateUserData,
-            });
-        } catch (error) {
-            console.error('Failed to update user:', error);
-            throw error;
-        }
+  async createUser(userData: { kindeId: string; email: string; name: string; role: string }) {
+    try {
+      await this.databaseService.user.create({
+        data: {
+          kindeId: userData.kindeId,
+          email: userData.email,
+          name: userData.name,
+          role: userData.role as Role, // Conversion explicite
+        },
+      });
+    } catch (error) {
+      console.error('Error creating user:', error);
+      throw new Error('Failed to create user');
     }
+  }
 
-    async delete(id: number) {
-        try {
-            return await this.databaseService.user.delete({ where: { id } });
-        } catch (error) {
-            console.error('Failed to delete user:', error);
-            throw error;
-        }
+  async update(kindeId: string, updateUserData: Prisma.UserUpdateInput) {
+    try {
+      return await this.databaseService.user.update({
+        where: { kindeId: kindeId },
+        data: updateUserData,
+      });
+    } catch (error) {
+      console.error('Failed to update user:', error);
+      throw error;
     }
-} 
+  }
+
+  async delete(kindeId: string) {
+    try {
+      return await this.databaseService.user.delete({
+         where: {
+          kindeId: kindeId 
+          } 
+        });
+    } catch (error) {
+      console.error('Failed to delete user:', error);
+      throw error;
+    }
+  }
+}

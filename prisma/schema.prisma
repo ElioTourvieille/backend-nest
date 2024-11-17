@@ -15,6 +15,7 @@ datasource db {
 
 model User {
   id       Int     @id @default(autoincrement())
+  kindeId  String  @unique
   email    String  @unique
   name     String
   role     Role
