@@ -1,7 +1,9 @@
-import { Controller, Post, HttpCode, HttpStatus, BadRequestException, Req } from '@nestjs/common';
+import { Controller, Post, HttpCode, HttpStatus, BadRequestException, Req, RawBody } from '@nestjs/common';
 import { WebhookService } from './webhook.service';
 import * as jwksClient from 'jwks-rsa';
 import * as jwt from 'jsonwebtoken';
+import * as express from 'express';
+import { raw } from '@prisma/client/runtime/library';
 
 @Controller('webhook')
 export class WebhookController {
@@ -31,31 +33,29 @@ export class WebhookController {
 
     @Post('kinde') // POST /webhook/kinde
     @HttpCode(HttpStatus.OK)
-    async handleKindeWebhook(@Req() req) {
-
+    async handleKindeWebhook(@Req() req: express.Request) {
         try {
-            // Check if rawBody is defined
-            const rawToken = req.rawBody ? req.rawBody.toString('utf-8') : null;
-            if (!rawToken) {
-                console.error('rawBody is undefined or empty');
-                throw new BadRequestException('Missing rawBody in request');
-            }
-
-            console.log('Webhook payload received (raw JWT):', rawToken);
-
-            // Check token and decode
-            const verifiedEvent = await this.verifyToken(rawToken);
-            console.log('Token verified and decoded:', verifiedEvent);
-
-            // Process event
-            await this.webhookService.processKindeEvent(verifiedEvent);
-
-            return { message: 'Webhook processed successfully' };
+          if (!req.rawBody) {
+            console.error('rawBody is undefined or empty');
+            throw new BadRequestException('Missing rawBody in request');
+          }
+      
+          const rawToken = req.rawBody.toString('utf-8'); // Convertit le Buffer en chaîne
+          console.log('Webhook payload received (raw JWT):', rawToken);
+      
+          // Vérifie et décode le JWT
+          const verifiedEvent = await this.verifyToken(rawToken);
+          console.log('Token verified and decoded:', verifiedEvent);
+      
+          // Traite l'événement
+          await this.webhookService.processKindeEvent(verifiedEvent);
+      
+          return { message: 'Webhook processed successfully' };
         } catch (error) {
-            console.error('Error processing webhook:', error.message);
-            throw new BadRequestException('Webhook failed to process');
+          console.error('Error processing webhook:', error.message);
+          throw new BadRequestException('Webhook failed to process');
         }
-    }
+      }
 }
 
 
