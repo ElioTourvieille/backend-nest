@@ -6,10 +6,13 @@ import { DatabaseService } from 'src/database/database.service';
 export class WebhookService {
   constructor(private readonly databaseService: DatabaseService) {}
 
+  // Process incoming Kinde webhook events for user management
+  // @param verifiedEvent - The verified webhook event from Kinde
   async processKindeEvent(verifiedEvent: any) {
     try {
       switch (verifiedEvent.type) {
         case 'user.created':
+          // Handle new user creation in our database
           const userData = {
             kindeId: verifiedEvent.data.user.id,
             email: verifiedEvent.data.user.email,
@@ -19,12 +22,14 @@ export class WebhookService {
           await this.createUser(userData);
           break;
         case 'user.updated':
+          // Sync user data updates from Kinde
           await this.update(verifiedEvent.data.user.id, {
             email: verifiedEvent.data.user.email,
             name: `${verifiedEvent.data.user.first_name} ${verifiedEvent.data.user.last_name}`,
           });
           break;
         case 'user.deleted':
+          // Remove user when deleted from Kinde
           await this.delete(verifiedEvent.data.user.id);
           break;
 
@@ -33,10 +38,12 @@ export class WebhookService {
       }
     } catch (error) {
       console.error(`Failed to process event ${verifiedEvent.type}:`, error);
-    throw error;
+      throw error;
     }
   }
 
+  // Create a new user in our database from Kinde data
+  // @param userData - User information from Kinde
   async createUser(userData: { kindeId: string; email: string; name: string; role: string }) {
     try {
       await this.databaseService.user.create({

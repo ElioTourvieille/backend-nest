@@ -6,7 +6,7 @@ import { SearchTournamentDto } from './dto/search-tournament.dto';
 export class TournamentController {
     constructor(private tournamentService: TournamentService) { }
 
-    @Get('search')
+    @Get('search') // GET /tournaments/search
     async searchTournaments(@Query() searchTournamentDto: SearchTournamentDto) {
         console.log('Received search request:', searchTournamentDto);
         const results = await this.tournamentService.searchTournaments(searchTournamentDto);

@@ -3,7 +3,6 @@ import { WebhookService } from './webhook.service';
 import * as jwksClient from 'jwks-rsa';
 import * as jwt from 'jsonwebtoken';
 import * as express from 'express';
-import { raw } from '@prisma/client/runtime/library';
 
 @Controller('webhook')
 export class WebhookController {
