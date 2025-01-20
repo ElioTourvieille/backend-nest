@@ -5,9 +5,10 @@ import { UsersModule } from './users/users.module';
 import { DatabaseModule } from './database/database.module';
 import { WebhookController } from './webhook/webhook.controller';
 import { WebhookService } from './webhook/webhook.service';
+import { TournamentModule } from './tournament/tournament.module';
 
 @Module({
-  imports: [UsersModule, DatabaseModule],
+  imports: [UsersModule, DatabaseModule, TournamentModule],
   controllers: [AppController, WebhookController],
   providers: [AppService, WebhookService],
 })

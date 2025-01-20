@@ -48,4 +48,12 @@ model Tournament {
   format    String
   room      String
   grids     Grid[]
+
+  // Timestamps for tracking
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([name])       
+  @@index([buyIn])     
+  @@index([startTime])  
 }
