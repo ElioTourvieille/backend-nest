@@ -15,6 +15,7 @@ export class KindeGuard implements CanActivate {
     const request = context.switchToHttp().getRequest();
     const token = this.extractToken(request);
 
+
     if (!token) {
       throw new UnauthorizedException('No token provided');
     }
@@ -59,7 +60,7 @@ export class KindeGuard implements CanActivate {
         publicKey,
         {
           algorithms: ['RS256'],
-          issuer: `https://${process.env.KINDE_DOMAIN}/`,
+          issuer: process.env.KINDE_ISSUER_URL,
         },
         (err, decoded) => {
           if (err) reject(err);
