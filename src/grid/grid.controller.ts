@@ -3,6 +3,7 @@ import { GridService } from './grid.service';
 import { CreateGridDto } from './dto/create-grid.dto';
 import { UpdateGridDto } from './dto/update-grid.dto';
 import { KindeGuard } from '../auth/kinde.guard';
+import { AddTournamentToGridDto } from './dto/add-tournament-to-grid.dto';
 
 @Controller('grid')
 @UseGuards(KindeGuard) // Protect all routes with KindeGuard
@@ -34,5 +35,13 @@ export class GridController {
     @Delete(':id') // DELETE /grid/:id
     async deleteGrid(@Param('id', ParseIntPipe) id: number) {
         return this.gridService.deleteGrid(id);
+    }
+
+    @Post(':id/add-tournament') // POST /grid/:id/add-tournament
+    async addTournamentToGrid(
+        @Param('id', ParseIntPipe) id: number,
+        @Body() addTournamentDto: AddTournamentToGridDto
+    ) {
+        return this.gridService.addTournamentToGrid(id, addTournamentDto.tournamentId);
     }
 }

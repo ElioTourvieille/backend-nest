@@ -52,6 +52,20 @@ export class GridService {
     async deleteGrid(gridID: number) {
         return this.databaseService.grid.delete({ where: { id: gridID } });
     }
+
+    async addTournamentToGrid(gridId: number, tournamentId: number) {
+        return this.databaseService.grid.update({
+            where: { id: gridId },
+            data: {
+                tournaments: {
+                    connect: { id: tournamentId }
+                }
+            },
+            include: {
+                tournaments: true,
+            },
+        });
+    }
 }
 
     
