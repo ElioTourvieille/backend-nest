@@ -1,5 +1,6 @@
-import { IsOptional, IsString, IsNumber, Min, Max, IsIn } from 'class-validator';
+import { IsOptional, IsString, IsNumber, Min, Max, IsEnum } from 'class-validator';
 import { Type } from 'class-transformer';
+import { TableSize, Variant, TournamentType } from '@prisma/client';
 
 export class SearchTournamentDto {
   @IsOptional()
@@ -19,9 +20,16 @@ export class SearchTournamentDto {
   buyInMax?: number;
 
   @IsOptional()
-  @IsString()
-  @IsIn(['Holdem', 'Omaha', 'Mixed'])
-  format?: string;
+  @IsEnum(TableSize)
+  tableSize?: TableSize;
+
+  @IsOptional()
+  @IsEnum(Variant)
+  variant?: Variant;
+
+  @IsOptional()
+  @IsEnum(TournamentType)
+  type?: TournamentType;
 
   @IsOptional()
   @IsString()
