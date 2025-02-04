@@ -13,7 +13,9 @@ export class GridService {
             data: {
                 name,
                 user: { connect: { kindeId } },
-                tournaments: { connect: tournamentIds.map(id => ({ id })) },
+                ...(tournamentIds && tournamentIds.length > 0
+                    ? { tournaments: { connect: tournamentIds.map(id => ({ id })) } }
+                    : {}),
             },
             include: {
                 tournaments: true,

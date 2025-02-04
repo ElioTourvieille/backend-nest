@@ -1,6 +1,4 @@
-import { IsString } from "class-validator";
-import { IsArray } from "class-validator";
-import { IsNotEmpty } from "class-validator";
+import { IsString, IsArray, IsNotEmpty, IsOptional } from "class-validator";
 
 export class CreateGridDto {
     @IsString()
@@ -8,6 +6,6 @@ export class CreateGridDto {
     name: string;
 
     @IsArray()
-    @IsNotEmpty()
-    tournamentIds: number[];
+    @IsOptional()
+    tournamentIds?: number[];
 }
