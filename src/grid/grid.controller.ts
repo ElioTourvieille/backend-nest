@@ -11,15 +11,15 @@ export class GridController {
 
     @Post() // POST /grid
     async createGrid(@Body() createGridDto: CreateGridDto, @Req() req: any) {
-        console.log('Request user:', req.user); // Ajout pour debug
-        const kindeId = req.user.sub;
-        console.log('KindeId:', kindeId); // Ajout pour debug
+        console.log('Request user:', req.user);
+        const kindeId = req.user.id;
+        console.log('KindeId:', kindeId);
         return this.gridService.createGrid(kindeId, createGridDto);
     }
 
     @Get() // GET /grid
     async getUserGrids(@Req() req: any) {
-        const kindeId = req.user.sub;
+        const kindeId = req.user.id;
         return this.gridService.getUserGrids(kindeId);
     }
 
