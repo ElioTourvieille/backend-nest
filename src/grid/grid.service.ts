@@ -8,11 +8,21 @@ export class GridService {
     constructor(private readonly databaseService: DatabaseService) {}
 
     async createGrid(kindeId: string, createGridDto: CreateGridDto) {
+        console.log('Creating grid with kindeId:', kindeId);
         const { name, tournamentIds } = createGridDto;
+        
+        if (!kindeId) {
+            throw new Error('KindeId is required');
+        }
+
         return this.databaseService.grid.create({
             data: {
                 name,
-                user: { connect: { kindeId } },
+                user: { 
+                    connect: { 
+                        kindeId: kindeId 
+                    } 
+                },
                 ...(tournamentIds && tournamentIds.length > 0
                     ? { tournaments: { connect: tournamentIds.map(id => ({ id })) } }
                     : {}),

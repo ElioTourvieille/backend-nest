@@ -11,7 +11,9 @@ export class GridController {
 
     @Post() // POST /grid
     async createGrid(@Body() createGridDto: CreateGridDto, @Req() req: any) {
+        console.log('Request user:', req.user); // Ajout pour debug
         const kindeId = req.user.sub;
+        console.log('KindeId:', kindeId); // Ajout pour debug
         return this.gridService.createGrid(kindeId, createGridDto);
     }
 
