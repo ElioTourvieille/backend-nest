@@ -8,7 +8,7 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   app.enableCors({
-    origin: ['http://localhost:3000', 'https://poker-progrid.com'],
+    origin: ['http://localhost:3000', 'https://poker-progrid.com','https://backend-nest.fly.dev'],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   });
