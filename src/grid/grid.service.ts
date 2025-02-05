@@ -36,7 +36,17 @@ export class GridService {
     async getUserGrids(kindeId: string) {
         return this.databaseService.grid.findMany({
             where: { user: { kindeId } },
-            include: { tournaments: true },
+            select: {
+                id: true,
+                name: true,
+                tournaments: {
+                    select: {
+                        id: true,
+                        name: true,
+                        startTime: true
+                    }
+                }
+            },
         });
     }
 

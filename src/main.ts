@@ -19,20 +19,18 @@ async function bootstrap() {
   // Custom middleware to handle raw JWT payloads from Kinde webhooks
   app.use((req: express.Request, res: express.Response, next: express.NextFunction) => {
     if (req.headers['content-type'] === 'application/jwt') {
-      const chunks: Buffer[] = [];
-      // Collect chunks of data
+      let body = '';
+      req.setEncoding('utf8');
+      
       req.on('data', (chunk) => {
-        chunks.push(Buffer.from(chunk)); // Stock each chunk in an array
+        body += chunk;
+        // Protection against excessively large payloads
+        if (body.length > 1e6) req.destroy();
       });
-      // Combine chunks into raw body when complete
+
       req.on('end', () => {
-        req.rawBody = Buffer.concat(chunks);
+        req.rawBody = Buffer.from(body);
         next();
-      });
-      // Handle any errors during body parsing
-      req.on('error', (err) => {
-        console.error('Error reading raw body:', err);
-        res.status(500).send('Failed to read request body');
       });
     } else {
       next();
