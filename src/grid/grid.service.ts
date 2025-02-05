@@ -7,24 +7,36 @@ import { UpdateGridDto } from './dto/update-grid.dto';
 export class GridService {
     constructor(private readonly databaseService: DatabaseService) {}
 
-    async createGrid(userID: number, createGridDto: CreateGridDto) {
+    async createGrid(kindeId: string, createGridDto: CreateGridDto) {
+        console.log('Creating grid with kindeId:', kindeId);
         const { name, tournamentIds } = createGridDto;
+        
+        if (!kindeId) {
+            throw new Error('KindeId is required');
+        }
+
         return this.databaseService.grid.create({
             data: {
                 name,
-                user: { connect: { id: userID } },
-                tournaments: { connect: tournamentIds.map(id => ({ id })) },
+                user: { 
+                    connect: { 
+                        kindeId: kindeId 
+                    } 
+                },
+                ...(tournamentIds && tournamentIds.length > 0
+                    ? { tournaments: { connect: tournamentIds.map(id => ({ id })) } }
+                    : {}),
             },
             include: {
-                tournaments: true, // Include related tournaments in the response
+                tournaments: true,
             },
         });
     }
 
-    async getUserGrids(userID: number) {
+    async getUserGrids(kindeId: string) {
         return this.databaseService.grid.findMany({
-            where: { userId: userID },
-            include: { tournaments: true }, // Include tournament details in the response
+            where: { user: { kindeId } },
+            include: { tournaments: true },
         });
     }
 
@@ -41,7 +53,7 @@ export class GridService {
             where: { id: gridID },
             data: { 
                 name, 
-                tournaments: { set: tournamentIds.map(id => ({ id })) } // Replace all tournament connections
+                tournaments: { set: tournamentIds.map(id => ({ id })) }
             },
             include: {
                 tournaments: true,
@@ -67,5 +79,3 @@ export class GridService {
         });
     }
 }
-
-    

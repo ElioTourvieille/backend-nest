@@ -41,19 +41,39 @@ model Grid {
 }
 
 model Tournament {
-  id        Int      @id @default(autoincrement())
-  name      String
-  buyIn     Float
-  startTime DateTime
-  format    String
-  room      String
-  grids     Grid[]
-
-  // Timestamps for tracking
-  createdAt  DateTime @default(now())
-  updatedAt  DateTime @updatedAt
+  id          Int      @id @default(autoincrement())
+  name        String
+  buyIn       Float
+  startTime   DateTime
+  tableSize   TableSize
+  variant     Variant
+  type        TournamentType
+  room        String
+  grids       Grid[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
 
   @@index([name])       
   @@index([buyIn])     
   @@index([startTime])  
+}
+
+enum TableSize {
+  HEADS_UP
+  SHORT_HANDED
+  FULL_RING
+}
+
+enum Variant {
+  NO_LIMIT_HOLDEM
+  POT_LIMIT_OMAHA
+  OTHER
+}
+
+enum TournamentType {
+  STANDARD
+  KNOCKOUT
+  MYSTERY_KNOCKOUT
+  SPACE_KNOCKOUT
+  FREEZOUT
 }

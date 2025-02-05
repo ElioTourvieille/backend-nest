@@ -7,7 +7,18 @@ export class TournamentService {
     constructor (private readonly databaseService: DatabaseService) { }
 
     async searchTournaments(searchTournamentDto: SearchTournamentDto) {
-        const { name, buyInMin, buyInMax, format, startDate, endDate, page, pageSize } = searchTournamentDto;
+        const { 
+            name, 
+            buyInMin, 
+            buyInMax, 
+            tableSize,
+            variant,
+            type,
+            startDate, 
+            endDate, 
+            page, 
+            pageSize 
+        } = searchTournamentDto;
 
         const skip = (page - 1) * pageSize;
 
@@ -17,7 +28,9 @@ export class TournamentService {
                 gte: buyInMin || undefined,
                 lte: buyInMax || undefined,
             },
-            format: format || undefined,
+            tableSize: tableSize || undefined,
+            variant: variant || undefined,
+            type: type || undefined,
             startTime: {
                 gte: startDate ? new Date(startDate) : undefined,
                 lte: endDate ? new Date(endDate) : undefined,
@@ -25,24 +38,24 @@ export class TournamentService {
         }
 
         const [tournaments, total] = await Promise.all([
-        this.databaseService.tournament.findMany({
-            where,
-            skip,
-            take: pageSize,
-            orderBy: { startTime: 'asc' },
-        }),
-        this.databaseService.tournament.count({ where }),
+            this.databaseService.tournament.findMany({
+                where,
+                skip,
+                take: pageSize,
+                orderBy: { startTime: 'asc' },
+            }),
+            this.databaseService.tournament.count({ where }),
         ]);
 
         return { 
-          data: tournaments,
-          meta: {
-            totalResults:total,
-            currentPage: page,
-            totalPages: Math.ceil(total / pageSize),
-            pageSize,
-          },
-         };
+            data: tournaments,
+            meta: {
+                totalResults: total,
+                currentPage: page,
+                totalPages: Math.ceil(total / pageSize),
+                pageSize,
+            },
+        };
     }
   }
     
