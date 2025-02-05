@@ -11,9 +11,14 @@ import { WebhookModule } from './webhook/webhook.module';
 import { StripeModule } from './stripe/stripe.module';
 import { StripeController } from './stripe/stripe.controller';
 import { StripeService } from './stripe/stripe.service';
+import { CacheModule } from '@nestjs/cache-manager';
 
 @Module({
   imports: [
+    CacheModule.register({
+      ttl: 60 * 60,
+      max: 100, 
+    }),
     UsersModule, 
     DatabaseModule, 
     TournamentModule, 
