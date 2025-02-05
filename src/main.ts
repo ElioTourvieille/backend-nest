@@ -40,7 +40,9 @@ async function bootstrap() {
   // Parse JSON bodies for regular requests
   app.use(bodyParser.json());
 
-  // Start the server on the specified port or default to 3001
-  await app.listen(process.env.PORT ?? 3001);
+  // Configuration pour Fly.io
+  const port = process.env.PORT || 8080;
+  await app.listen(port, '0.0.0.0');
+  console.log(`Application is running on: ${await app.getUrl()}`);
 }
 bootstrap();
