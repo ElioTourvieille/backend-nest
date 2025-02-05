@@ -1,11 +1,12 @@
 import { Injectable, Inject } from '@nestjs/common';
 import { DatabaseService } from '../database/database.service';
+import { STRIPE_CLIENT } from 'src/stripe/stripe.constants';
 import Stripe from 'stripe';
 
 @Injectable()
 export class StripeService {
   constructor(
-    @Inject('STRIPE_CLIENT') private stripe: Stripe,
+    @Inject(STRIPE_CLIENT) private readonly stripe: Stripe,
     private readonly databaseService: DatabaseService,
   ) {}
 
