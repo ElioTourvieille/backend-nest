@@ -8,6 +8,9 @@ import { WebhookService } from './webhook/webhook.service';
 import { TournamentModule } from './tournament/tournament.module';
 import { GridModule } from './grid/grid.module';
 import { WebhookModule } from './webhook/webhook.module';
+import { StripeModule } from './stripe/stripe.module';
+import { StripeController } from './stripe/stripe.controller';
+import { StripeService } from './stripe/stripe.service';
 
 @Module({
   imports: [
@@ -16,8 +19,11 @@ import { WebhookModule } from './webhook/webhook.module';
     TournamentModule, 
     GridModule,
     WebhookModule,
+    StripeModule,
   ],
-  controllers: [AppController, WebhookController],
-  providers: [AppService, WebhookService],
+  controllers: [AppController, WebhookController, StripeController],
+  providers: [AppService, WebhookService, StripeService],
 })
+
+
 export class AppModule {}
