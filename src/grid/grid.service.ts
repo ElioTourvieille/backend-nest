@@ -39,6 +39,7 @@ export class GridService {
             select: {
                 id: true,
                 name: true,
+                createdAt: true,
                 tournaments: {
                     select: {
                         id: true,
