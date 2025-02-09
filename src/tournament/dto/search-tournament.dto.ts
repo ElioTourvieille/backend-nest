@@ -1,4 +1,4 @@
-import { IsOptional, IsString, IsNumber, Min, Max, IsEnum } from 'class-validator';
+import { IsOptional, IsString, IsNumber, Min, Max, IsEnum, Matches } from 'class-validator';
 import { Type } from 'class-transformer';
 import { TableSize, Variant, TournamentType } from '@prisma/client';
 
@@ -6,6 +6,9 @@ export class SearchTournamentDto {
   @IsOptional()
   @IsString()
   name?: string;
+
+  @IsString()
+  room?: string;
 
   @IsOptional()
   @Type(() => Number)
@@ -38,6 +41,23 @@ export class SearchTournamentDto {
   @IsOptional()
   @IsString()
   endDate?: string;
+
+  @IsOptional()
+  @IsString()
+  @Matches(/^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$/)
+  startTime?: string;
+
+
+  @IsOptional()
+  @IsString()
+  @Matches(/^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$/)
+  time?: string;
+
+  @IsOptional()
+  @IsString()
+  @Matches(/^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$/)
+  endTime?: string;
+
 
   @IsOptional()
   @Type(() => Number)

@@ -81,56 +81,124 @@ export class TournamentService {
         ]);
     }
 
+    private timeToMinutes(time: string): number {
+        const [hours, minutes] = time.split(':').map(Number);
+        return hours * 60 + minutes;
+    }
+
+    private tournamentTimeToMinutes(date: Date): number {
+        return date.getHours() * 60 + date.getMinutes();
+    }
+
     async searchTournaments(searchTournamentDto: SearchTournamentDto) {
-        const { 
-            name, 
-            buyInMin, 
-            buyInMax, 
-            tableSize,
-            variant,
-            type,
-            startDate, 
-            endDate, 
-            page = 1,
-            pageSize = 25
-        } = searchTournamentDto;
+        const pageSize = searchTournamentDto?.pageSize || 25;
+        const page = searchTournamentDto?.page || 1;
 
-        const skip = (page - 1) * pageSize;
+        try {
+            const { 
+                name, 
+                buyInMin, 
+                buyInMax, 
+                tableSize,
+                variant,
+                type,
+                startDate,
+                endDate,
+                time,
+                endTime,
+                room,
+            } = searchTournamentDto || {};
 
-        const where = {
-            name: name ? { contains: name, mode: 'insensitive' as const } : undefined,
-            buyIn: {
-                gte: buyInMin || undefined,
-                lte: buyInMax || undefined,
-            },
-            tableSize: tableSize || undefined,
-            variant: variant || undefined,
-            type: type || undefined,
-            startTime: {
-                gte: startDate ? new Date(startDate) : undefined,
-                lte: endDate ? new Date(endDate) : undefined,
-            },
+            const skip = (page - 1) * pageSize;
+
+            let startDateTime = undefined;
+            let endDateTime = undefined;
+
+            if (startDate) {
+                startDateTime = new Date(startDate);
+            }
+
+            if (endDate) {
+                const baseDate = new Date(endDate);
+                if (endTime) {
+                    const [hours, minutes] = endTime.split(':').map(Number);
+                    baseDate.setHours(hours, minutes, 59, 999);
+                }
+                endDateTime = baseDate;
+            }
+
+            const where = {
+                name: name ? { contains: name, mode: 'insensitive' as const } : undefined,
+                buyIn: {
+                    gte: buyInMin || undefined,
+                    lte: buyInMax || undefined,
+                },
+                tableSize: tableSize || undefined,
+                variant: variant || undefined,
+                type: type || undefined,
+                room: room || undefined,
+                startTime: {
+                    gte: startDateTime,
+                    lte: endDateTime,
+                },
+            }
+
+            // Gestion de la plage horaire
+            if (time || endTime) {
+                const startTimeDate = new Date();
+                const endTimeDate = new Date();
+
+                if (time) {
+                    const [startHours, startMinutes] = time.split(':').map(Number);
+                    startTimeDate.setHours(startHours, startMinutes, 0, 0);
+                }
+
+                if (endTime) {
+                    const [endHours, endMinutes] = endTime.split(':').map(Number);
+                    endTimeDate.setHours(endHours, endMinutes, 59, 999);
+                } else if (time) {
+                    // Si pas d'endTime, on prend time + 1 minute
+                    endTimeDate.setTime(startTimeDate.getTime() + 60000);
+                }
+
+                where['startTime'] = {
+                    ...where['startTime'],
+                    gte: time ? startTimeDate : undefined,
+                    lte: endTime ? endTimeDate : undefined,
+                };
+            }
+            
+            const [tournaments, total] = await Promise.all([
+                this.databaseService.tournament.findMany({
+                    where,
+                    skip,
+                    take: pageSize,
+                    orderBy: { startTime: 'asc' },
+                }),
+                this.databaseService.tournament.count({ where }),
+            ]);
+
+            return { 
+                data: tournaments || [],
+                meta: {
+                    totalResults: total,
+                    currentPage: page,
+                    totalPages: Math.ceil(total / pageSize),
+                    pageSize,
+                },
+            };
+        } catch (error) {
+            console.error('Error in searchTournaments:', error);
+            return {
+                data: [],
+                meta: {
+                    totalResults: 0,
+                    currentPage: page,
+                    totalPages: 0,
+                    pageSize,
+                },
+            };
         }
-
-        const [tournaments, total] = await Promise.all([
-            this.databaseService.tournament.findMany({
-                where,
-                skip,
-                take: pageSize,
-                orderBy: { startTime: 'asc' },
-            }),
-            this.databaseService.tournament.count({ where }),
-        ]);
-
-        return { 
-            data: tournaments,
-            meta: {
-                totalResults: total,
-                currentPage: page,
-                totalPages: Math.ceil(total / pageSize),
-                pageSize,
-            },
-        };
     }
   }
     
