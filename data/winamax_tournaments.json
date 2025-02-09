@@ -1,0 +1,7492 @@
+[
+  {
+    "name": "50€ - ANDROMEDA",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SPACE_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885733732"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885736099"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "885737335"
+  },
+  {
+    "name": "10€ - NIGHT CLUB",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885737718"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "885739585"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885740630"
+  },
+  {
+    "name": "20€ - DERNIER ROUND",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899263526"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899269175"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T00:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885734237"
+  },
+  {
+    "name": "5€ - Turbo Sat MAD MAX",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885736826"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T00:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885737222"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T00:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885732852"
+  },
+  {
+    "name": "2€ - 2€ et je ne bosse pas demain...",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T00:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885732979"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T00:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885741646"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T00:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899272609"
+  },
+  {
+    "name": "2€ - Mega Sat Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T00:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885733117"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T00:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885735597"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T00:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885738093"
+  },
+  {
+    "name": "10€ - Tournoi",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T00:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899602679"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T00:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885733738"
+  },
+  {
+    "name": "5€ - NUIT BLANCHE",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885737447"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T00:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "885739283"
+  },
+  {
+    "name": "10€ - CASSIOPEIA",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T00:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SPACE_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "890678702"
+  },
+  {
+    "name": "5€ - Last Chance MAD MAX",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885736838"
+  },
+  {
+    "name": "5€ - Qualif. Déglingos - Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T00:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885736870"
+  },
+  {
+    "name": "2€ - Mega Sat Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T00:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "885734260"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T00:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885734029"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T00:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885740426"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235475"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237732"
+  },
+  {
+    "name": "2€ - Last Chance NOCTAMBULE",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238553"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238942"
+  },
+  {
+    "name": "20€ - PEGASUS",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T01:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893730382"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T01:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236071"
+  },
+  {
+    "name": "5€ - Turbo Sat LAST CALL",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T01:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236939"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T01:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237156"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T01:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886235428"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T01:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240627"
+  },
+  {
+    "name": "0.5€ - Qualif. Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T01:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235670"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T01:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236732"
+  },
+  {
+    "name": "10€ - NOCTAMBULE",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T01:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234421"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237505"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T01:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238883"
+  },
+  {
+    "name": "5€ - Last Chance LAST CALL",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T01:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236944"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T01:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237215"
+  },
+  {
+    "name": "2€ - Last Chance LYRA",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T01:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898895068"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T02:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234724"
+  },
+  {
+    "name": "20€ - LAST CALL",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T02:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234957"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T02:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886237345"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T02:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239797"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T02:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899273810"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T02:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235948"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T02:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237157"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T02:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "893731955"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T02:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237877"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T02:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237424"
+  },
+  {
+    "name": "5€ - Last Chance LAST LONGER",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T02:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238530"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T02:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238748"
+  },
+  {
+    "name": "10€ - LYRA",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T02:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899258395"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T02:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237216"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T03:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237713"
+  },
+  {
+    "name": "20€ - LAST LONGER",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T03:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238560"
+  },
+  {
+    "name": "2€ - Last Chance NIGHT FINISHER",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T03:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239734"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T03:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899274256"
+  },
+  {
+    "name": "1€ - 1€ et nuit blanche...",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T03:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234170"
+  },
+  {
+    "name": "5€ - PERSEUS",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T03:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893732486"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T03:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236733"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T03:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237511"
+  },
+  {
+    "name": "10€ - NIGHT FINISHER",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T03:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239724"
+  },
+  {
+    "name": "2€ - 2€ et nuit blanche...",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T04:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234176"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T04:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899274685"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T04:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237878"
+  },
+  {
+    "name": "1€ - 1€ et nuit blanche...",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T04:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234183"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T04:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238749"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T04:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899274949"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T05:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237714"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T05:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236734"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T05:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237516"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T06:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899275364"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T06:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237845"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T06:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238750"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T06:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899275754"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T06:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237677"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T07:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239057"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T07:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239763"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T07:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899276354"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T07:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899276613"
+  },
+  {
+    "name": "5€ - HEIVA 246",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T07:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899616843"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T07:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237110"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T07:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236799"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T07:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237522"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T07:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238886"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T07:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239136"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T07:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237241"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T07:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237259"
+  },
+  {
+    "name": "10€ - MAVERICK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T08:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234219"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T08:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234735"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T08:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235441"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T08:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238915"
+  },
+  {
+    "name": "20€ - Monster Stack",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T08:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899277007"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T08:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237285"
+  },
+  {
+    "name": "1€ - MYSTERY KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T08:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240025"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T08:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236707"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T08:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237846"
+  },
+  {
+    "name": "5€ - WAKE UP",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T08:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237445"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T08:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238751"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T08:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239195"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T08:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235535"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T08:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237242"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T08:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237303"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T08:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240806"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T08:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234825"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T08:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237678"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234210"
+  },
+  {
+    "name": "20€ - MORNING LIVE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239752"
+  },
+  {
+    "name": "2€ - VELOCITY",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "889387553"
+  },
+  {
+    "name": "10€ - FRICTION",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893019198"
+  },
+  {
+    "name": "1€ - Déglingos",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899277306"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899277674"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899278047"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T09:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237127"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T09:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237286"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T09:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239208"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239986"
+  },
+  {
+    "name": "50€ - CONTINENTAL",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T09:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240555"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T09:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236800"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T09:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234742"
+  },
+  {
+    "name": "1€ - Hold'em [180 Max]",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T09:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235449"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237527"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T09:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238887"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T09:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239137"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235536"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235958"
+  },
+  {
+    "name": "2€ - Last Chance COFFEE TIME",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236931"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237174"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237304"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T09:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240826"
+  },
+  {
+    "name": "10€ - COFFEE TIME",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T10:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234413"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T10:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238916"
+  },
+  {
+    "name": "1€ - Last Chance SPACE KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T10:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239961"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T10:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237128"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T10:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237331"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234015"
+  },
+  {
+    "name": "2€ - Deepstack Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237597"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239372"
+  },
+  {
+    "name": "50€ - MYSTERY KO",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240578"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410911"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411478"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T10:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236708"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T10:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237848"
+  },
+  {
+    "name": "5€ - FUSION",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T10:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237451"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T10:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238752"
+  },
+  {
+    "name": "20€ - SPHERE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T10:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239484"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899281068"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T10:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899281335"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T10:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235538"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235967"
+  },
+  {
+    "name": "2€ - Deep Sat DIGESTIF",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236924"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T10:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237175"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T10:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235483"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T10:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237679"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T10:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239999"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T11:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234080"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T11:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234749"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T11:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "893036073"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T11:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899281698"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899281952"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T11:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237129"
+  },
+  {
+    "name": "1€ - 1€ et à table...",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234192"
+  },
+  {
+    "name": "10€ - SALOON",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234489"
+  },
+  {
+    "name": "20€ - BOOSTER",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893034561"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523498"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410552"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410912"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411479"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899282352"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T11:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899282599"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T11:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236801"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235492"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237536"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238888"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239138"
+  },
+  {
+    "name": "50€ - SOLAR",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893033816"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T11:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408767"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T11:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235564"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T11:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235968"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T11:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237176"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T11:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234022"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T11:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899283090"
+  },
+  {
+    "name": "10€ - THUNDER",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "HEADS_UP",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885960476"
+  },
+  {
+    "name": "5€ - FAST FOOD",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234689"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235501"
+  },
+  {
+    "name": "2€ - Deepstack Omaha",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236282"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238917"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T12:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "893035164"
+  },
+  {
+    "name": "5€ - Marathon Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896404584"
+  },
+  {
+    "name": "1€ - Marathon Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896407752"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235151"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237130"
+  },
+  {
+    "name": "2€ - Deepstack Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237598"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523499"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410553"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410913"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411480"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899283503"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234259"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T12:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236709"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T12:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237849"
+  },
+  {
+    "name": "0.25€ - Pok1",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T12:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899222481"
+  },
+  {
+    "name": "10€ - CLUB SANDWICH",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885882495"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885894417"
+  },
+  {
+    "name": "5€ - BOWLING",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885902719"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234092"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238753"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239197"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240187"
+  },
+  {
+    "name": "5€ - Mega Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895522676"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408768"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T12:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234767"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T12:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237680"
+  },
+  {
+    "name": "50€ - SHAOLIN",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T12:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893031042"
+  },
+  {
+    "name": "10€ - Deep Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T12:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523243"
+  },
+  {
+    "name": "2€ - Deep Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T12:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896406775"
+  },
+  {
+    "name": "10€ - Mega Sat Ticket 50 €",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T12:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235285"
+  },
+  {
+    "name": "20€ - VORTEX",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885919858"
+  },
+  {
+    "name": "5€ - Deepstack Hold'em",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235323"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239060"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240004"
+  },
+  {
+    "name": "50€ - MILLION WEEK SPACE KO 50 € - DAY 1",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895130487"
+  },
+  {
+    "name": "10€ - MILLION WEEK SPACE KO 10 € - DAY 1",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895142793"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "899290389"
+  },
+  {
+    "name": "20€ - Trident",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899292845"
+  },
+  {
+    "name": "1€ - SPACE KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899761461"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234381"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236077"
+  },
+  {
+    "name": "1€ - Last Chance DESPERADO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236871"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234029"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239318"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239420"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240019"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523500"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410554"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410914"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T13:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234280"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T13:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236802"
+  },
+  {
+    "name": "10€ - DIGESTIF",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234436"
+  },
+  {
+    "name": "1€ - Hold'em [180 Max]",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235509"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237544"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238889"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239139"
+  },
+  {
+    "name": "1€ - MYSTERY KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240030"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408769"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T13:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235571"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T13:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235824"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T13:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235976"
+  },
+  {
+    "name": "5€ - DESPERADO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T13:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885904063"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T13:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234768"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T13:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240585"
+  },
+  {
+    "name": "50€ - SHOOTING STAR",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885883562"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234102"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234830"
+  },
+  {
+    "name": "2€ - Deepstack Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235339"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886237388"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886237890"
+  },
+  {
+    "name": "20€ - CRUNCH",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238978"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240014"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234382"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236084"
+  },
+  {
+    "name": "5€ - Marathon Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896404585"
+  },
+  {
+    "name": "1€ - Marathon Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896407753"
+  },
+  {
+    "name": "2€ - ROTATION",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885889372"
+  },
+  {
+    "name": "5€ - ASTEROID",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885920404"
+  },
+  {
+    "name": "1€ - Deepstack Hold'em",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235256"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239375"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523501"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410555"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410915"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411482"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T14:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236710"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T14:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237850"
+  },
+  {
+    "name": "10€ - DERBY",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885887871"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885889720"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885894418"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238754"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239198"
+  },
+  {
+    "name": "5€ - Mega Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895522678"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408770"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237326"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235585"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T14:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235978"
+  },
+  {
+    "name": "1€ - Last Chance Pistolero",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236860"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T14:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234034"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T14:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237681"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T14:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239450"
+  },
+  {
+    "name": "20€ - PANINI",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T14:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240602"
+  },
+  {
+    "name": "10€ - METEOR",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885920902"
+  },
+  {
+    "name": "5€ - Deepstack Omaha",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236204"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239061"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239214"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "890675896"
+  },
+  {
+    "name": "50€ - MILLION WEEK SPACE KO 50 € - DAY 1",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895130491"
+  },
+  {
+    "name": "10€ - MILLION WEEK SPACE KO 10 € - DAY 1",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895142795"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234383"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T15:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236091"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235704"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T15:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237186"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885890198"
+  },
+  {
+    "name": "5€ - PISTOLERO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234521"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239319"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239421"
+  },
+  {
+    "name": "0.5€ - Trident",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239579"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523502"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410556"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411483"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235756"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T15:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236803"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885890578"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234108"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234835"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886236360"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237546"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238891"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239140"
+  },
+  {
+    "name": "5€ - Mega Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895522679"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T15:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408771"
+  },
+  {
+    "name": "10€ - Mega Sat GLADIATOR",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T15:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886238598"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T15:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235591"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235983"
+  },
+  {
+    "name": "2€ - Deep Sat Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236917"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235409"
+  },
+  {
+    "name": "2€ - Deepstack Omaha5",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T15:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236249"
+  },
+  {
+    "name": "0.25€ - Deepstack Hold'em",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T15:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236313"
+  },
+  {
+    "name": "1€ - Trident",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T15:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239611"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T15:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235362"
+  },
+  {
+    "name": "10€ - RING",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234650"
+  },
+  {
+    "name": "20€ - Deep Sat BATTLE ROYALE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237096"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238931"
+  },
+  {
+    "name": "20€ - CLASH",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238985"
+  },
+  {
+    "name": "5€ - MILKY WAY",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239681"
+  },
+  {
+    "name": "10€ - BALL TRAP",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893747675"
+  },
+  {
+    "name": "1€ - SPACE KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899763313"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234384"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236100"
+  },
+  {
+    "name": "5€ - Turbo Sat TEA TIME",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236985"
+  },
+  {
+    "name": "5€ - Marathon Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896404586"
+  },
+  {
+    "name": "1€ - Marathon Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896407754"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 10€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237224"
+  },
+  {
+    "name": "2€ - QUARK",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885903019"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239376"
+  },
+  {
+    "name": "1€ - MYSTERY KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240150"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523503"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410557"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410917"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411484"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235768"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T16:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236711"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T16:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237851"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885894419"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886235246"
+  },
+  {
+    "name": "2€ - Deepstack Omaha8",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236258"
+  },
+  {
+    "name": "2€ - 5-Game",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236275"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238755"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239199"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240151"
+  },
+  {
+    "name": "50€ - HORIZON",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893747024"
+  },
+  {
+    "name": "5€ - Mega Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895522680"
+  },
+  {
+    "name": "1€ - Mega Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896408772"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237327"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235603"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T16:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236007"
+  },
+  {
+    "name": "1€ - Déglingos",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235416"
+  },
+  {
+    "name": "1€ - Deep Sat ATOM",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236434"
+  },
+  {
+    "name": "5€ - Last Chance TEA TIME",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T16:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236994"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T16:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237682"
+  },
+  {
+    "name": "50€ - Mega Sat GRAVITY",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T16:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240438"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234117"
+  },
+  {
+    "name": "20€ - TEA TIME",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234800"
+  },
+  {
+    "name": "20€ - Mega Sat BATTLE ROYALE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237061"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239062"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240196"
+  },
+  {
+    "name": "5€ - SAMOURAI",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893748060"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234385"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236114"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235712"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234451"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234778"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239320"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239423"
+  },
+  {
+    "name": "0.5€ - Trident",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239580"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523504"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410558"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411485"
+  },
+  {
+    "name": "2€ - Mega Sat OMAHA BEACH",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234809"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T17:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236804"
+  },
+  {
+    "name": "20€ - PULSAR",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885918578"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235451"
+  },
+  {
+    "name": "10€ - Deep Sat PRIME TIME",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237017"
+  },
+  {
+    "name": "2€ - BLASTER",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237557"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238892"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239141"
+  },
+  {
+    "name": "50€ - GLADIATOR",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239817"
+  },
+  {
+    "name": "50€ - Last Chance GRAVITY",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240418"
+  },
+  {
+    "name": "50€ - MILLION WEEK SPACE KO 50 € - DAY 1",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895130492"
+  },
+  {
+    "name": "10€ - MILLION WEEK SPACE KO 10 € - DAY 1",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895142796"
+  },
+  {
+    "name": "5€ - Mega Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895522681"
+  },
+  {
+    "name": "1€ - Sparring Training",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899868465"
+  },
+  {
+    "name": "1€ - Sparring Training 2",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899868695"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T17:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235087"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235611"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T17:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236015"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T17:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234042"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T17:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886234896"
+  },
+  {
+    "name": "1€ - Trident",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T17:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239612"
+  },
+  {
+    "name": "20€ - Turbo Sat BATTLE ROYALE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T17:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237067"
+  },
+  {
+    "name": "50€ - Last Chance GRAVITY",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T17:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240419"
+  },
+  {
+    "name": "10€ - CYBER",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234485"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234902"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234969"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236373"
+  },
+  {
+    "name": "2€ - Deep Sat LA FIEVRE",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236893"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238932"
+  },
+  {
+    "name": "20€ - Mega Sat INTERSTELLAR",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T18:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "898604504"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234386"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236119"
+  },
+  {
+    "name": "5€ - Marathon Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896404587"
+  },
+  {
+    "name": "1€ - Marathon Sat MILLION WEEK 10 €",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896407755"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235721"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235833"
+  },
+  {
+    "name": "2€ - 2€ et l'apéro...",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234202"
+  },
+  {
+    "name": "10€ - TNT",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234575"
+  },
+  {
+    "name": "10€ - Qualif Super Sat Fivebet Festival",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234651"
+  },
+  {
+    "name": "20€ - Kill The Fish",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234873"
+  },
+  {
+    "name": "0.25€ - Deepstack Hold'em",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236319"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239378"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523506"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410559"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410921"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411486"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235781"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T18:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236712"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T18:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237852"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885894420"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "885920531"
+  },
+  {
+    "name": "5€ - GUERILLA",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885922965"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234122"
+  },
+  {
+    "name": "5€ - Deepstack Hold'em",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234515"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234843"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235421"
+  },
+  {
+    "name": "1€ - Hold'em [180 Max]",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235465"
+  },
+  {
+    "name": "1€ - Deepstack Omaha",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236163"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238757"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239200"
+  },
+  {
+    "name": "250€ - GRAVITY",
+    "buyIn": 250.0,
+    "startTime": "2025-02-06T18:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240055"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236022"
+  },
+  {
+    "name": "20€ - Last Chance BATTLE ROYALE",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T18:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237077"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235619"
+  },
+  {
+    "name": "1€ - Turbo Sat ATOM",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236831"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T18:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235370"
+  },
+  {
+    "name": "0.5€ - Deepstack Hold'em",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T18:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235519"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T18:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237684"
+  },
+  {
+    "name": "10€ - Last Chance INTERSTELLAR",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T18:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898405085"
+  },
+  {
+    "name": "50€ - Mega Sat HIGHROLLER",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T18:55:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237086"
+  },
+  {
+    "name": "50€ - MYSTERY KO",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885893928"
+  },
+  {
+    "name": "1€ - Deepstack Hold'em",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235243"
+  },
+  {
+    "name": "5€ - Deepstack Hold'em",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235296"
+  },
+  {
+    "name": "10€ - DEEP RUN",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235864"
+  },
+  {
+    "name": "5€ - Deepstack Omaha",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236206"
+  },
+  {
+    "name": "200€ - BATTLE ROYALE",
+    "buyIn": 200.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236432"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238565"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239063"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239974"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234387"
+  },
+  {
+    "name": "0.5€ - Qualif. Déglingos - Ticket 10€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234399"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236127"
+  },
+  {
+    "name": "5€ - Turbo Sat AFTER WORK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236955"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235839"
+  },
+  {
+    "name": "20€ - NITRO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234500"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234621"
+  },
+  {
+    "name": "10€ - Qualif Super Sat Fivebet Festival",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234652"
+  },
+  {
+    "name": "5€ - Deepstack Hold'em",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234882"
+  },
+  {
+    "name": "1€ - Last Chance ATOM",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236837"
+  },
+  {
+    "name": "10€ - Monster Stack",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886237403"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239321"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239424"
+  },
+  {
+    "name": "0.5€ - Trident",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239582"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239710"
+  },
+  {
+    "name": "10€ - MYSTERY PLO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240132"
+  },
+  {
+    "name": "2€ - Turbo Sat TORNADO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240374"
+  },
+  {
+    "name": "5€ - Turbo Sat MILLION WEEK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "895523507"
+  },
+  {
+    "name": "1€ - Turbo Sat MILLION WEEK",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410560"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410922"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411487"
+  },
+  {
+    "name": "10€ - Last Chance INTERSTELLAR",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898405087"
+  },
+  {
+    "name": "1€ - Qualif. Déglingos - Ticket 10€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234467"
+  },
+  {
+    "name": "2€ - Mega Sat OMAHA BEACH",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234681"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235788"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236805"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234049"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235226"
+  },
+  {
+    "name": "2€ - SPARTACUS",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237566"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238893"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239142"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240108"
+  },
+  {
+    "name": "2€ - Last Chance TORNADO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240350"
+  },
+  {
+    "name": "2€ - Canigo poker club",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899901995"
+  },
+  {
+    "name": "50€ - Turbo Sat HIGHROLLER",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T19:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240385"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235089"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235625"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236029"
+  },
+  {
+    "name": "1€ - Turbo Sat BIG BANG",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236823"
+  },
+  {
+    "name": "5€ - Last Chance AFTER WORK",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236960"
+  },
+  {
+    "name": "10€ - Last Chance PRIME TIME",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237034"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237197"
+  },
+  {
+    "name": "5€ - ATOM",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234544"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235169"
+  },
+  {
+    "name": "0.5€ - Hold'em",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236340"
+  },
+  {
+    "name": "50€ - EXPLORER",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236393"
+  },
+  {
+    "name": "1€ - Trident",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239613"
+  },
+  {
+    "name": "2€ - QUATTRO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239675"
+  },
+  {
+    "name": "20€ - Kill The Fish",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239742"
+  },
+  {
+    "name": "20€ - MYSTERY PLO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239805"
+  },
+  {
+    "name": "5€ - MYSTERY PLO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T19:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240123"
+  },
+  {
+    "name": "10€ - SUPERNOVA",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885928571"
+  },
+  {
+    "name": "0€ - Tournoi du jeudi",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234791"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886235435"
+  },
+  {
+    "name": "2€ - MAGNETIC",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235870"
+  },
+  {
+    "name": "10€ - 8-Game",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236293"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236378"
+  },
+  {
+    "name": "2€ - Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239641"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239767"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240834"
+  },
+  {
+    "name": "50€ - MILLION WEEK SPACE KO 50 € - DAY 1",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895130493"
+  },
+  {
+    "name": "10€ - MILLION WEEK SPACE KO 10 € - DAY 1",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895142797"
+  },
+  {
+    "name": "0.5€ - Tonio123",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899420519"
+  },
+  {
+    "name": "100€ - INTERSTELLAR",
+    "buyIn": 100.0,
+    "startTime": "2025-02-06T20:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899744528"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236139"
+  },
+  {
+    "name": "1€ - Last Chance BIG BANG",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236827"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235735"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235847"
+  },
+  {
+    "name": "2€ - Turbo Sat LA FIEVRE",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236905"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234130"
+  },
+  {
+    "name": "20€ - AFTER WORK",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234593"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234671"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235193"
+  },
+  {
+    "name": "5€ - SNIPER",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237488"
+  },
+  {
+    "name": "2€ - Deepstack Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237605"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239379"
+  },
+  {
+    "name": "1€ - MYSTERY KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240115"
+  },
+  {
+    "name": "10€ - Mega Sat MYSTERY KO 50 €",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240653"
+  },
+  {
+    "name": "10€ - Turbo Sat MILLION WEEK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896410923"
+  },
+  {
+    "name": "2€ - Turbo Sat MILLION WEEK 10 €",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "896411488"
+  },
+  {
+    "name": "10€ - TORNADO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898386252"
+  },
+  {
+    "name": "1€ - SPACE KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899764403"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235794"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T20:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236713"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T20:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237853"
+  },
+  {
+    "name": "2€ - Paname PC Winamax KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "855981461"
+  },
+  {
+    "name": "0€ - Pays de Cornouaille Freeroll B",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "856748616"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885894421"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234472"
+  },
+  {
+    "name": "50€ - PRIME TIME",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235035"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235213"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235876"
+  },
+  {
+    "name": "2€ - 5-Game",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236270"
+  },
+  {
+    "name": "1€ - Deepstack Hold'em",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236303"
+  },
+  {
+    "name": "2€ - Last Chance LA FIEVRE",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236910"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238758"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239201"
+  },
+  {
+    "name": "5€ - POUR LA DARONNE",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239475"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239546"
+  },
+  {
+    "name": "10€ - Last Chance Super Sat Fivebet Festival",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886240561"
+  },
+  {
+    "name": "2€ - PLANETE POK",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240677"
+  },
+  {
+    "name": "10€ - LE TRIDENT",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240693"
+  },
+  {
+    "name": "2€ - BonjourBaptiste en Live sur Twitch",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899785417"
+  },
+  {
+    "name": "2€ - Canigo poker club",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899902803"
+  },
+  {
+    "name": "5€ - Arrrrgent",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899917481"
+  },
+  {
+    "name": "2€ - Tournoi",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899945699"
+  },
+  {
+    "name": "50€ - Last Chance HIGHROLLER",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T20:35:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237103"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236036"
+  },
+  {
+    "name": "0€ - Tours PC Freeroll B",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "883402600"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234059"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886234699"
+  },
+  {
+    "name": "2€ - Deepstack Omaha",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235939"
+  },
+  {
+    "name": "1€ - WESTERN",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235943"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237685"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886237885"
+  },
+  {
+    "name": "10€ - COMMANDO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238573"
+  },
+  {
+    "name": "20€ - Monster Stack",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239785"
+  },
+  {
+    "name": "1€ - LAADY AND GENTLEMENS 24",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899745298"
+  },
+  {
+    "name": "2€ - Tournoi des bgs",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T20:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899954354"
+  },
+  {
+    "name": "0€ - Royal Flush 03 Freeroll B",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "856745733"
+  },
+  {
+    "name": "0€ - Ouest Poker Freeroll A",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "876692192"
+  },
+  {
+    "name": "0€ - Ramjam PC Freeroll A",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "877567860"
+  },
+  {
+    "name": "0.25€ - Le DLPoker hebdo",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885398564"
+  },
+  {
+    "name": "0.5€ - CPDS Mixte du Jeudi",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885451673"
+  },
+  {
+    "name": "250€ - HIGHROLLER",
+    "buyIn": 250.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234654"
+  },
+  {
+    "name": "10€ - OMAHA BEACH",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234817"
+  },
+  {
+    "name": "10€ - LA FIEVRE",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235102"
+  },
+  {
+    "name": "1€ - Hold'em [180 Max]",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235156"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235214"
+  },
+  {
+    "name": "5€ - Déglingos",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235912"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239064"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240544"
+  },
+  {
+    "name": "5€ - QUANTUM",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893021346"
+  },
+  {
+    "name": "0€ - Omaha God",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "POT_LIMIT_OMAHA",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "895047948"
+  },
+  {
+    "name": "1€ - ABCPOKER",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "896711285"
+  },
+  {
+    "name": "0€ - Ligue Serial Wameur - Super Finale",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898315227"
+  },
+  {
+    "name": "1€ - Ligue Serial Wameur",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898315623"
+  },
+  {
+    "name": "10€ - pokpok des legendes",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "898446083"
+  },
+  {
+    "name": "0.5€ - Tonio123",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899421547"
+  },
+  {
+    "name": "5€ - Back To Poker 0602",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899716014"
+  },
+  {
+    "name": "0.25€ - Championnat HU quarts de finale match 1",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T21:00:00",
+    "tableSize": "HEADS_UP",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899951896"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234389"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235741"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237142"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237249"
+  },
+  {
+    "name": "2€ - Tournoi3",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "896634815"
+  },
+  {
+    "name": "2€ - Championnat 10ème journée rouge",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899549192"
+  },
+  {
+    "name": "2€ - Championnat 10ème journée blanc",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899550370"
+  },
+  {
+    "name": "2€ - Championnat 10ème journée bleu",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899551522"
+  },
+  {
+    "name": "5€ - Neuneux préparent week-end finfins",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:12:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899412850"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234136"
+  },
+  {
+    "name": "20€ - BATTLESHIP",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234534"
+  },
+  {
+    "name": "5€ - BIG BANG",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234587"
+  },
+  {
+    "name": "2€ - HARA-KIRI",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234888"
+  },
+  {
+    "name": "0.5€ - Deepstack Hold'em",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236324"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239322"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239425"
+  },
+  {
+    "name": "0.5€ - Trident",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239583"
+  },
+  {
+    "name": "50€ - SUPER SAT FESTIVAL FIVEBET",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886239977"
+  },
+  {
+    "name": "10€ - Turbo Sat MYSTERY KO 50 €",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240648"
+  },
+  {
+    "name": "10€ - Satellite Finale WiPT  - Package",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "892017488"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235797"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236806"
+  },
+  {
+    "name": "2€ - Canigo Pok",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899977378"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234849"
+  },
+  {
+    "name": "5€ - Hold'em [180 Max]",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235220"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237575"
+  },
+  {
+    "name": "10€ - QUATTRO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237767"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238894"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239143"
+  },
+  {
+    "name": "5€ - LES LOULOUS",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "891963906"
+  },
+  {
+    "name": "50€ - GALACTICA",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "893015192"
+  },
+  {
+    "name": "5€ - Kbpt",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899949947"
+  },
+  {
+    "name": "2€ - Pampelune",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899964389"
+  },
+  {
+    "name": "5€ - Qualif. Déglingos - Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234406"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235091"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235644"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236044"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237198"
+  },
+  {
+    "name": "10€ - Last Chance Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239515"
+  },
+  {
+    "name": "2€ - Hold'em [180 Max]",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235184"
+  },
+  {
+    "name": "0.5€ - Hold'em",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236341"
+  },
+  {
+    "name": "20€ - Trident",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239525"
+  },
+  {
+    "name": "1€ - Trident",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239614"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240145"
+  },
+  {
+    "name": "20€ - Turbo Sat MYSTERY KO 100 €",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240639"
+  },
+  {
+    "name": "20€ - Techisonic",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T21:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899789844"
+  },
+  {
+    "name": "20€ - SPRINT",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885894879"
+  },
+  {
+    "name": "0.5€ - MiniRoll",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234066"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886235134"
+  },
+  {
+    "name": "0.25€ - Deepstack Hold'em",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235905"
+  },
+  {
+    "name": "10€ - NINJA",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238581"
+  },
+  {
+    "name": "1€ - Monster Stack",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238938"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239533"
+  },
+  {
+    "name": "1€ - Hold'em",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239716"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239768"
+  },
+  {
+    "name": "2€ - La Liga EducaPoker",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239964"
+  },
+  {
+    "name": "2€ - OUTERSPACE",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240881"
+  },
+  {
+    "name": "0.5€ - Tonio123",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899421890"
+  },
+  {
+    "name": "0.5€ - Tonio123",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899421899"
+  },
+  {
+    "name": "0.5€ - LAADY AND GENTLEMENS 25",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899745518"
+  },
+  {
+    "name": "1€ - SPACE KO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "899765008"
+  },
+  {
+    "name": "0.5€ - BonjourBaptiste en Live sur Twitch turbo dégueulasse de merde",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:01:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "899786642"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234390"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236147"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235748"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235850"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237143"
+  },
+  {
+    "name": "50€ - MYSTERY KO",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885896428"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234146"
+  },
+  {
+    "name": "5€ - Deepstack Hold'em",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234911"
+  },
+  {
+    "name": "1€ - Hold'em [180 Max]",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235164"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237610"
+  },
+  {
+    "name": "5€ - Trident",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239380"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239621"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235809"
+  },
+  {
+    "name": "0.25€ - Qualif. Ticket 2€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236714"
+  },
+  {
+    "name": "0.25€ - Hit&Run Ticket 1€",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886237854"
+  },
+  {
+    "name": "20€ - MYSTERY KO",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "885897163"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886234974"
+  },
+  {
+    "name": "10€ - COSMIC",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237406"
+  },
+  {
+    "name": "5€ - ROCKET",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237497"
+  },
+  {
+    "name": "5€ - SHOW ONE",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237763"
+  },
+  {
+    "name": "2€ - Last Chance Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237780"
+  },
+  {
+    "name": "0.25€ - Monster Stack",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238759"
+  },
+  {
+    "name": "0.5€ - Kill The Fish",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239202"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239547"
+  },
+  {
+    "name": "50€ - MILLION WEEK SPACE KO 50 € - DAY 1",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895130494"
+  },
+  {
+    "name": "10€ - MILLION WEEK SPACE KO 10 € - DAY 1",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T22:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "895142798"
+  },
+  {
+    "name": "10€ - Hit&Run Ticket 50€",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T22:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235092"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235649"
+  },
+  {
+    "name": "2€ - Hit&Run Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236051"
+  },
+  {
+    "name": "1€ - Turbo Sat RODEO",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236816"
+  },
+  {
+    "name": "2€ - AFTER FOOT",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T22:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235922"
+  },
+  {
+    "name": "5€ - 5-Game",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236223"
+  },
+  {
+    "name": "1€ - Kill The Fish",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T22:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237686"
+  },
+  {
+    "name": "5€ - Monster Stack",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T22:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239759"
+  },
+  {
+    "name": "100€ - MYSTERY KO",
+    "buyIn": 100.0,
+    "startTime": "2025-02-06T22:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240633"
+  },
+  {
+    "name": "0.5€ - Qualif. Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T22:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234270"
+  },
+  {
+    "name": "50€ - RUSH HOUR",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885897635"
+  },
+  {
+    "name": "10€ - PAYBACK",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885904532"
+  },
+  {
+    "name": "20€ - ORION",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235311"
+  },
+  {
+    "name": "50€ - Monster Stack",
+    "buyIn": 50.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238589"
+  },
+  {
+    "name": "2€ - Monster Stack",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886239066"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239230"
+  },
+  {
+    "name": "5€ - Kill The Fish",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239487"
+  },
+  {
+    "name": "1€ - Hold'em",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239660"
+  },
+  {
+    "name": "2€ - MYSTERY KO",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240177"
+  },
+  {
+    "name": "5€ - MYSTERY KO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:00:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240612"
+  },
+  {
+    "name": "5€ - Hit&Run Ticket 20€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886234391"
+  },
+  {
+    "name": "1€ - Hit&Run Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T23:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236158"
+  },
+  {
+    "name": "2€ - Turbo Sat NIGHT CLUB",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:05:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236878"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 10€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235753"
+  },
+  {
+    "name": "5€ - Qualif. Ticket 50€",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:10:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235860"
+  },
+  {
+    "name": "0€ - Freeroll",
+    "buyIn": 0.0,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234152"
+  },
+  {
+    "name": "0.25€ - MiniRoll",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236351"
+  },
+  {
+    "name": "10€ - Trident",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886237774"
+  },
+  {
+    "name": "2€ - Trident",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239323"
+  },
+  {
+    "name": "0.5€ - Trident",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239584"
+  },
+  {
+    "name": "5€ - QUATTRO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:15:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239667"
+  },
+  {
+    "name": "10€ - Last Chance SPACE KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T23:20:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237009"
+  },
+  {
+    "name": "2€ - Qualif. Ticket 20€",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235816"
+  },
+  {
+    "name": "0.5€ - Hit&Run Ticket 2€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T23:25:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886236807"
+  },
+  {
+    "name": "5€ - CYGNUS",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "885962188"
+  },
+  {
+    "name": "2€ - Last Chance NIGHT CLUB",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886236885"
+  },
+  {
+    "name": "2€ - Kill The Fish",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886237583"
+  },
+  {
+    "name": "5€ - Last Chance DERNIER ROUND",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886238531"
+  },
+  {
+    "name": "0.5€ - Monster Stack",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "FREEZOUT",
+    "room": "Winamax",
+    "tournament_id": "886238895"
+  },
+  {
+    "name": "0.25€ - Kill The Fish",
+    "buyIn": 0.25,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886239144"
+  },
+  {
+    "name": "10€ - MYSTERY KO",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "MYSTERY_KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240043"
+  },
+  {
+    "name": "20€ - Trident",
+    "buyIn": 20.0,
+    "startTime": "2025-02-06T23:30:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886240567"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 5€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T23:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235660"
+  },
+  {
+    "name": "1€ - Qualif. Ticket 10€",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T23:40:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235666"
+  },
+  {
+    "name": "5€ - RODEO",
+    "buyIn": 5.0,
+    "startTime": "2025-02-06T23:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886234925"
+  },
+  {
+    "name": "2€ - Deepstack Hold'em",
+    "buyIn": 2.0,
+    "startTime": "2025-02-06T23:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886235128"
+  },
+  {
+    "name": "1€ - Trident",
+    "buyIn": 1.0,
+    "startTime": "2025-02-06T23:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "STANDARD",
+    "room": "Winamax",
+    "tournament_id": "886239615"
+  },
+  {
+    "name": "10€ - Kill The Fish",
+    "buyIn": 10.0,
+    "startTime": "2025-02-06T23:45:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "KNOCKOUT",
+    "room": "Winamax",
+    "tournament_id": "886240146"
+  },
+  {
+    "name": "0.5€ - Qualif. Ticket 5€",
+    "buyIn": 0.5,
+    "startTime": "2025-02-06T23:50:00",
+    "tableSize": "FULL_RING",
+    "variant": "NO_LIMIT_HOLDEM",
+    "type": "SATELLITE",
+    "room": "Winamax",
+    "tournament_id": "886235678"
+  }
+]

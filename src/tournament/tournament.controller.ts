@@ -1,4 +1,4 @@
-import { Controller, Query, Get } from '@nestjs/common';
+import { Controller, Query, Get, Post } from '@nestjs/common';
 import { TournamentService } from './tournament.service';
 import { SearchTournamentDto } from './dto/search-tournament.dto';
 
@@ -13,4 +13,11 @@ export class TournamentController {
         console.log('Search results:', results);
         return results;
     }
+
+    @Post('import') // POST /tournaments/import
+    async importTournaments() {
+        await this.tournamentService.importAllTournaments();
+        return { message: 'Tournaments imported successfully' };
+    }
 }
+

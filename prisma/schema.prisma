@@ -76,4 +76,5 @@ enum TournamentType {
   MYSTERY_KNOCKOUT
   SPACE_KNOCKOUT
   FREEZOUT
+  SATELLITE
 }
