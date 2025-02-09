@@ -45,11 +45,20 @@ export class TournamentService {
     private async importTournamentsForRoom(room: string, filePath: string) {
         const data = await this.readJsonFile<RawTournamentData[]>(filePath);
         
-        await Promise.all(data.map(tournament => 
-            this.databaseService.tournament.create({
-                data: this.mapToTournamentData({ ...tournament, room })
-            })
-        ));
+        await Promise.all(data.map(tournament => {
+            const tournamentData = this.mapToTournamentData({ ...tournament, room });
+            return this.databaseService.tournament.upsert({
+                where: {
+                    name_startTime_room: {
+                        name: tournamentData.name,
+                        startTime: tournamentData.startTime,
+                        room: tournamentData.room
+                    }
+                },
+                create: tournamentData,
+                update: tournamentData
+            });
+        }));
     }
 
     async importGGPokerTournaments() {
@@ -82,8 +91,8 @@ export class TournamentService {
             type,
             startDate, 
             endDate, 
-            page, 
-            pageSize 
+            page = 1,
+            pageSize = 25
         } = searchTournamentDto;
 
         const skip = (page - 1) * pageSize;
