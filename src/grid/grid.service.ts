@@ -89,4 +89,18 @@ export class GridService {
             },
         });
     }
+
+    async removeTournamentFromGrid(gridId: number, tournamentId: number) {
+        return this.databaseService.grid.update({
+            where: { id: gridId },
+            data: {
+                tournaments: {
+                    disconnect: { id: tournamentId }
+                }
+            },
+            include: {
+                tournaments: true,
+            },
+        });
+    }
 }

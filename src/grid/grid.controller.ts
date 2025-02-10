@@ -46,4 +46,12 @@ export class GridController {
     ) {
         return this.gridService.addTournamentToGrid(id, addTournamentDto.tournamentId);
     }
+
+    @Delete(':id/remove-tournament/:tournamentId') // DELETE /grid/:id/remove-tournament/:tournamentId
+    async removeTournamentFromGrid(
+        @Param('id', ParseIntPipe) id: number,
+        @Param('tournamentId', ParseIntPipe) tournamentId: number
+    ) {
+        return this.gridService.removeTournamentFromGrid(id, tournamentId);
+    }
 }
