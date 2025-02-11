@@ -6,7 +6,7 @@ import Stripe from 'stripe';
 export class StripeController {
   constructor(private readonly stripeService: StripeService) {}
 
-  @Post('create-checkout-session')
+  @Post('create-checkout-session') // POST /stripe/create-checkout-session
   async createCheckoutSession(
     @Body() body: { priceId: string; userId: string },
   ) {
@@ -17,7 +17,7 @@ export class StripeController {
     return { url: session.url };
   }
 
-  @Post('webhook')
+  @Post('webhook') // POST /stripe/webhook
   async handleWebhook(
     @Headers('stripe-signature') signature: string,
     @Req() request: RawBodyRequest<Request>,

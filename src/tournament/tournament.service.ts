@@ -81,15 +81,6 @@ export class TournamentService {
         ]);
     }
 
-    private timeToMinutes(time: string): number {
-        const [hours, minutes] = time.split(':').map(Number);
-        return hours * 60 + minutes;
-    }
-
-    private tournamentTimeToMinutes(date: Date): number {
-        return date.getHours() * 60 + date.getMinutes();
-    }
-
     async searchTournaments(searchTournamentDto: SearchTournamentDto) {
         const pageSize = searchTournamentDto?.pageSize || 25;
         const page = searchTournamentDto?.page || 1;
@@ -143,7 +134,7 @@ export class TournamentService {
                 },
             }
 
-            // Gestion de la plage horaire
+            // Time slot management
             if (time || endTime) {
                 const startTimeDate = new Date();
                 const endTimeDate = new Date();
@@ -157,7 +148,7 @@ export class TournamentService {
                     const [endHours, endMinutes] = endTime.split(':').map(Number);
                     endTimeDate.setHours(endHours, endMinutes, 59, 999);
                 } else if (time) {
-                    // Si pas d'endTime, on prend time + 1 minute
+                    // If there is no endTime, we use time + 1 minute
                     endTimeDate.setTime(startTimeDate.getTime() + 60000);
                 }
 

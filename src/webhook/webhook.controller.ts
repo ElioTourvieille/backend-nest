@@ -12,9 +12,11 @@ export class WebhookController {
         jwksUri: `${process.env.KINDE_ISSUER_URL}/.well-known/jwks.json`,
     })
 
+    // Verify the JWT token using Kinde's public key
     private async verifyToken(token: string): Promise<any> {
         try {
             const decodedToken = jwt.decode(token, { complete: true }) as any;
+
             if (!decodedToken || typeof decodedToken === 'string') {
                 throw new BadRequestException('Invalid token');
             }
@@ -39,16 +41,17 @@ export class WebhookController {
             throw new BadRequestException('Missing rawBody in request');
           }
       
-          const rawToken = req.rawBody.toString('utf-8'); // Convertit le Buffer en chaîne
+          const rawToken = req.rawBody.toString('utf-8'); // Convert the Buffer to a string
           console.log('Webhook payload received (raw JWT):', rawToken);
       
-          // Vérifie et décode le JWT
+          // Verify and decode the JWT
           const verifiedEvent = await this.verifyToken(rawToken);
           console.log('Token verified and decoded:', verifiedEvent);
+
       
-          // Traite l'événement
+          // Process the event
           await this.webhookService.processKindeEvent(verifiedEvent);
-      
+
           return { message: 'Webhook processed successfully' };
         } catch (error) {
           console.error('Error processing webhook:', error.message);

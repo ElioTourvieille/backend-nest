@@ -28,6 +28,7 @@ export class StripeService {
     return session;
   }
 
+  // Handle webhook events from Stripe
   async handleWebhookEvent(event: Stripe.Event) {
     switch (event.type) {
       case 'checkout.session.completed':
